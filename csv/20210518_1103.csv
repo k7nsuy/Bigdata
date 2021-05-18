@@ -1,0 +1,4 @@
+ret,data
+y1,123
+y2,234
+y,"[{'id': 'a', 'name': '가나다1', 'age': 61, 'height': 165.4, 'weight': 60.2}, {'id': 'b', 'name': '가나다2', 'age': 32, 'height': 185.4, 'weight': 80.3}, {'id': 'c', 'name': '가나다3', 'age': 13, 'height': 145.8, 'weight': 60.6}, {'id': 'd', 'name': '가나다4', 'age': 44, 'height': 165.7, 'weight': 44.5}, {'id': 'e', 'name': '가나다5', 'age': 85, 'height': 165.2, 'weight': 42.3}]"
